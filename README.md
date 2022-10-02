@@ -12,7 +12,7 @@
 2.	解題目標：透過分析永豐商店提供的網路輿情、疫情和過往商品銷售資料，串接Open Data，建立異常事件偵測和AI預測模型來分析及預測下個月的衛生紙網路銷售量，同時找出關鍵變數和減少模型更新時間。最終成果預計以Web介面呈現，兼顧視覺化和長期應用性，方便永豐商店各部門可快速識讀和處理因應。
 3.  解題成果：請見下方Demo影片 (點選可開啟連結)，此AI成果預計於10月下旬交付至永豐商店技術部門。
 
-[![Watch the video](https://github.com/gaby-ma/gaby-ma.github.io/blob/main/www/images/yfy.png)](https://www.youtube.com/watch?v=9nrntwHs0p4)
+[![Watch the video](https://github.com/gaby-ma/gaby-ma.github.io/blob/main/www/images/yfy.png)](https://www.youtube.com/watch?v=9nrntwHs0p4)</BR>
 智造奇機 Miracle AI Inc. | 設計&開發
 
 如有任何疑問或建議，歡迎來信至gaby.kao@miracleai.biz，感謝！
